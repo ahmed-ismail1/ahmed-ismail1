@@ -37,7 +37,6 @@ I also enjoy working with **electronics and embedded systems**
   <br>
 
   <img src="https://img.shields.io/badge/C%2B%2B-8B5CF6?style=for-the-badge&logo=c%2B%2B&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=fff" />
 
   <br>
