@@ -1,6 +1,6 @@
 <!-- HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07050f,50:1a103c,100:00f7ff&height=220&section=header&text=Ahmed20%Ismail&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07050f,50:1a103c,100:00f7ff&height=220&section=header&text=Ahmed Ismail&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <!-- TYPING SUB-HEADER -->
