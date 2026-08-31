@@ -49,22 +49,6 @@ I also enjoy working with **electronics and embedded systems**
 
 ---
 
-## 🔧 Android
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Android_Internals-00F7FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Custom_ROMs-00F7FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kernel-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/HAL-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/AIDL%20%2F%20HIDL-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Magisk-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/ADB-10B981?style=flat-square" />
-
-</p>
-
----
-
 ## 🔌 Electronics & Embedded
 
 <p align="center">
