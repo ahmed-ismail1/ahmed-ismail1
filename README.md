@@ -73,7 +73,8 @@ I also enjoy working with **electronics and embedded systems**
 
 <p align="center">
 
-  📱 Android Development &nbsp; • &nbsp;
+  📱 Android Development &nbsp;
+  • &nbsp;
   🔌 Electronics
 
 </p>
